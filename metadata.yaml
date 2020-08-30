@@ -1,0 +1,31 @@
+_repo: Jean-de-Thommeray-Le-colonel-Evrard_62960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sandeau, Jules
+    birthdate: 1811
+    deathdate: 1883
+    gutenberg_agent_id: '25629'
+    url: http://www.gutenberg.org/2009/agents/25629
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jules_Sandeau
+    - https://en.wikipedia.org/wiki/Jules_Sandeau
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62960'
+  lccn: '12031057'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: Jean de Thommeray; Le colonel Evrard
+url: http://www.gutenberg.org/ebooks/62960
